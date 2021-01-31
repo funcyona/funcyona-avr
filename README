@@ -1,6 +1,6 @@
 #### Important
 
-Only works if compiled with target version equals 28 and Play Store is only accepting applications compiled with targetVersion greater than 28
+Only works if compiled with target version 28 and Play Store is only accepting applications compiled with targetVersion greater than 28
 
 If you find a best solution, let me know, thanks.
 
