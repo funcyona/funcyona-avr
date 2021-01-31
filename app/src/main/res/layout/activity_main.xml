@@ -13,18 +13,28 @@
         tools:layout_editor_absoluteX="204dp"
         tools:layout_editor_absoluteY="298dp">
 
-        <EditText
-            android:id="@+id/editTextArch"
-            android:layout_width="409dp"
-            android:layout_height="wrap_content"
-            android:ems="10"
-            android:inputType="textPersonName"
-            android:autofillHints="" />
+        <TextView
+            android:id="@+id/textViewArch"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
 
         <Button
-            android:id="@+id/button"
+            android:id="@+id/buttonRun"
             android:layout_width="409dp"
             android:layout_height="wrap_content"
-            android:text="Button" />
+            android:text="Start" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Output:" />
+
+        <TextView
+            android:id="@+id/textViewOutput"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
