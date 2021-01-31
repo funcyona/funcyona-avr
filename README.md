@@ -16,5 +16,6 @@ https://stackoverflow.com/questions/60370424/permission-is-denied-using-android-
 
 https://stackoverflow.com/questions/60370424/permission-is-denied-using-android-q-ffmpeg-error-13-permission-denied
 
+#### Example
 
-![alt text](https://github.com/funcyona/funcyona.avr/blob/main/image01.jpge?raw=true)
+![alt text](https://github.com/funcyona/funcyona.avr/blob/main/image01.jpeg?raw=true)
