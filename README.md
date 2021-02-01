@@ -14,6 +14,7 @@ https://www.reddit.com/r/androiddev/comments/b2inbu/psa_android_q_blocks_executi
 
 https://stackoverflow.com/questions/60370424/permission-is-denied-using-android-q-ffmpeg-error-13-permission-denied
 
+https://issuetracker.google.com/issues/128554619
 
 #### Example
 
