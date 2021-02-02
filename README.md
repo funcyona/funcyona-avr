@@ -1,4 +1,4 @@
-### Running binary arm files at Android
+### Running binary arm files on Android
 
 
 #### Important
